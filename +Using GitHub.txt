@@ -1,7 +1,11 @@
 
+
 Title: Using Git and GitHub for Collaborative Development
 
+
 Introduction: Git is a popular version control system for managing code projects and tracking changes to code over time. GitHub is a web-based platform that enables developers to share code, work collaboratively on projects, and contribute to open-source software development. In this tutorial, we will explain how to use Git and GitHub to manage code changes, contribute to projects, and collaborate with others.
+
+
 
 Part 1: Setting up Git and GitHub
 
